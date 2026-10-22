@@ -1,0 +1,27 @@
+{
+  "project_title": "PRIVACY-PRESERVING FEDERATED LEARNING FRAMEWORK FOR MULTI-HOSPITAL MEDICAL DATA ANALYSIS",
+  "case_study": "Chronic Kidney Disease prediction",
+  "features": [
+    "age",
+    "al",
+    "appet",
+    "ba",
+    "bgr",
+    "bp",
+    "bu",
+    "hemo",
+    "pc",
+    "pcc",
+    "pcv",
+    "pot",
+    "rbc",
+    "rbcc",
+    "sc",
+    "sg",
+    "sod",
+    "su",
+    "wbcc"
+  ],
+  "adaptive_threshold": 0.5999999999999998,
+  "warning": "Research prototype only; not a clinical diagnosis. Four hospitals are simulated clients from public datasets."
+}

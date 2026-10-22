@@ -1,0 +1,5 @@
+hospital,target_missingness_percent,actual_missingness_percent,noise_multiplier
+Hospital 1,5,4.82,0.05
+Hospital 2,15,14.98,0.1
+Hospital 3,25,24.92,0.2
+Hospital 4,40,40.87,0.3
