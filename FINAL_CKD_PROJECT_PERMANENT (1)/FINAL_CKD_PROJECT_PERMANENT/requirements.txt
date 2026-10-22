@@ -1,6 +1,0 @@
-gradio>=5.0,<7
-numpy
-pandas
-torch
-reportlab
-scikit-learn
