@@ -5,5 +5,3 @@ pandas
 scikit-learn
 joblib
 torch
-reportlab
-gunicorn
