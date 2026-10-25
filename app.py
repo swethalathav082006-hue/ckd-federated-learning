@@ -36,7 +36,7 @@ app = Flask(__name__, static_folder=str(BASE_DIR), static_url_path="")
 CORS(app)
 
 model = CKDModel(input_features=len(FEATURE_ORDER)).to(DEVICE)
-model_path = BASE_DIR / "models" / "adaptive_dp_fl_model.pth"
+model_path = BASE_DIR / "adaptive_dp_fl_model.pth"
 
 model_loaded = False
 model_message = "Model file not found."
